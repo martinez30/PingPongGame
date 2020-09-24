@@ -1,0 +1,138 @@
+[
+  {
+    "Id": "ae4393eb-b2d9-4154-873d-56251aac31b3",
+    "Nome": "Ana",
+    "Tempo": "2020-09-21T23:36:21.5650246-03:00",
+    "Duracao": "00:17",
+    "Modo": "Facil",
+    "Resultado": "Vitória"
+  },
+  {
+    "Id": "fcbdd5b3-49cf-4358-95b8-0f05cd638dbe",
+    "Nome": "Paulo",
+    "Tempo": "2020-09-22T21:36:21.5650246-03:00",
+    "Duracao": "00:10",
+    "Modo": "Facil",
+    "Resultado": "Vitória"
+  },
+  {
+    "Id": "2eec107e-2af4-4f02-a16e-5079f9037c65",
+    "Nome": "Cibele",
+    "Tempo": "2020-09-22T00:01:45.8305579-03:00",
+    "Duracao": "00:10",
+    "Modo": "Facil",
+    "Resultado": "Vitória"
+  },
+  {
+    "Id": "4ef4b938-f6e7-45ae-a265-6ededdfc382b",
+    "Nome": "Jaqueline",
+    "Tempo": "2020-09-22T09:26:08.3811151-03:00",
+    "Duracao": "00:05",
+    "Modo": "Facil",
+    "Resultado": "Vitória"
+  },
+  {
+    "Id": "8222e6bb-0bfe-4221-b9c6-4a30077b149b",
+    "Nome": "Jaime",
+    "Tempo": "2020-09-22T09:31:03.1734446-03:00",
+    "Duracao": "00:05",
+    "Modo": "Facil",
+    "Resultado": "Vitória"
+  },
+  {
+    "Id": "b93689b6-1c13-47cd-b931-4cebb52bf250",
+    "Nome": "Paulo",
+    "Tempo": "2020-09-22T09:40:05.727779-03:00",
+    "Duracao": "00:04",
+    "Modo": "Facil",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "98838d45-26fa-4447-b9a3-641b98e0b862",
+    "Nome": "Ramires",
+    "Tempo": "2020-09-22T09:46:42.6651527-03:00",
+    "Duracao": "00:05",
+    "Modo": "Facil",
+    "Resultado": "Vitória"
+  },
+  {
+    "Id": "fdfad551-7b39-4e66-aa6e-4b720177e612",
+    "Nome": "Rulio",
+    "Tempo": "2020-09-22T10:53:57.1148515-03:00",
+    "Duracao": "00:00",
+    "Modo": "Facil",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "9964b65b-b885-4ff3-9ab0-cebf0cb767e1",
+    "Nome": "Pauo",
+    "Tempo": "2020-09-22T11:00:44.024257-03:00",
+    "Duracao": "00:02",
+    "Modo": "Facil",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "ad0a31ee-7ca2-4f7b-9faa-560187c84f79",
+    "Nome": "Mariana",
+    "Tempo": "2020-09-22T11:03:54.9179623-03:00",
+    "Duracao": "00:04",
+    "Modo": "Dificil",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "7edcb873-b72c-44e8-8ad3-2ba384129c12",
+    "Nome": "Martins",
+    "Tempo": "2020-09-22T11:06:59.6579283-03:00",
+    "Duracao": "00:10",
+    "Modo": "Medio",
+    "Resultado": "Vitória"
+  },
+  {
+    "Id": "46eb72ee-092a-407a-a648-133e32717fcd",
+    "Nome": "Julio",
+    "Tempo": "2020-09-22T11:22:39.8038351-03:00",
+    "Duracao": "00:04",
+    "Modo": "Medio",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "72cdb6b3-78a7-4b8d-a008-26ff88ee704c",
+    "Nome": "Ramires",
+    "Tempo": "2020-09-22T20:49:04.9877705-03:00",
+    "Duracao": "00:09",
+    "Modo": "Facil",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "369aaa95-311a-4f34-8d9f-0ca2a4b73a50",
+    "Nome": "Samuel",
+    "Tempo": "2020-09-22T20:51:34.989384-03:00",
+    "Duracao": "00:04",
+    "Modo": "Dificil",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "fd46e504-309d-4e87-80be-84fbced5b01a",
+    "Nome": "Leonidas",
+    "Tempo": "2020-09-22T21:36:56.5957714-03:00",
+    "Duracao": "00:07",
+    "Modo": "Facil",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "f7a8d017-a46a-475d-b695-1597e33b9a42",
+    "Nome": "Leticia",
+    "Tempo": "2020-09-22T21:41:23.1601362-03:00",
+    "Duracao": "00:03",
+    "Modo": "Medio",
+    "Resultado": "Derrota"
+  },
+  {
+    "Id": "32570e18-9f5f-417b-bb17-63ba58b733a1",
+    "Nome": "fdgr",
+    "Tempo": "2020-09-22T21:44:25.471655-03:00",
+    "Duracao": "00:00",
+    "Modo": "Dificil",
+    "Resultado": "Derrota"
+  }
+]
